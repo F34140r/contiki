@@ -1,9 +1,9 @@
 /* Define to prevent recursive inclusion -------------------------------------*/
-#ifndef __deRFsam323M10_DMA_H
-#define __deRFsam323M10_DMA_H
+#ifndef __at91sam3s_DMA_H
+#define __at91sam3s_DMA_H
 
 /* Includes ------------------------------------------------------------------*/
-#include "deRFsam323M10_map.h"
+#include "at91sam3s_map.h"
 
 /* Exported types ------------------------------------------------------------*/
 /* DMA Init structure definition */
@@ -276,6 +276,6 @@ void DMA_ClearFlag(u32 DMA_FLAG);
 ITStatus DMA_GetITStatus(u32 DMA_IT);
 void DMA_ClearITPendingBit(u32 DMA_IT);
 
-#endif /*__STM32F10x_DMA_H */
+#endif /*__at91sam3s_DMA_H */
 
 /******************* (C) COPYRIGHT 2008 STMicroelectronics *****END OF FILE****/

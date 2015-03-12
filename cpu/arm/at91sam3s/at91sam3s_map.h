@@ -1,14 +1,14 @@
 /* Define to prevent recursive inclusion -------------------------------------*/
-#ifndef __deRFsam323M10_MAP_H
-#define __deRFsam323M10_MAP_H
+#ifndef __at91sam3s_MAP_H
+#define __at91sam3s_MAP_H
 
 #ifndef EXT
   #define EXT extern
 #endif /* EXT */
 
 /* Includes ------------------------------------------------------------------*/
-#include "deRFsam323M10_conf.h"
-#include "deRFsam323M10_type.h"
+#include "at91sam3s_conf.h"
+#include "at91sam3s_type.h"
 #include "cortexm3_macro.h"
 
 /* Exported types ------------------------------------------------------------*/

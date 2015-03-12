@@ -3,7 +3,7 @@
 #include <nvic.h>
 #include <stdio.h>
 #include <debug-uart.h>
-#include <usb-deRFsam323M10.h>
+#include <usb-at91sam3s.h>
 
 /* #define DEBUG     */
 #ifdef DEBUG

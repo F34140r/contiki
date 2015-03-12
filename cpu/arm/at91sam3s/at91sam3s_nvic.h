@@ -1,9 +1,9 @@
 /* Define to prevent recursive inclusion -------------------------------------*/
-#ifndef __deRFsam323M10_NVIC_H
-#define __deRFsam323M10_NVIC_H
+#ifndef __at91sam3s_NVIC_H
+#define __at91sam3s_NVIC_H
 
 /* Includes ------------------------------------------------------------------*/
-#include "deRFsam323M10_map.h"
+#include "at91sam3s_map.h"
 
 /* Exported types ------------------------------------------------------------*/
 /* NVIC Init Structure definition */
